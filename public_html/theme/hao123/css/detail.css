@@ -1,0 +1,13 @@
+.qa {width:928px;padding:15px;border-top:none;float:left;border:1px solid #bed7e5;background-color:#fff;}
+.mesItem{ float:left; width:908px; padding:10px;}
+.qa_title{ background:#fffaef; border-bottom:1px solid #fbe4bb; line-height:21px; padding:4px;width:892px;float:left;}
+.qustion{ padding:15px; line-height:21px;width:870px;float:left;}
+.answer{padding:6px 15px; line-height:21px; width:870px; background:#f7f7f7; border:1px dashed #dcdcdc;float:left;}
+.answer b{ float:left;}
+.number{ background:url(../images/nobg.jpg) no-repeat; width:31px; height:17px; line-height:17px; color:#fff; font-weight:bold; padding-left:4px; float:left; margin-top:3px;}
+.user_name{ margin-left:12px; color:#a84400; font-weight:bold; float:left}
+.time{ float:right; color:#333; margin-right:10px;}
+.page{ width:900px; text-align:center;}
+
+#tab_s2 {background-color:#b1c6dd;font-size:16px;}
+#tab_s2 td {height:33px;line-height:33px;padding-left:14px;	background-color:#f7fbfe;text-align:center;}
